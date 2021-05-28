@@ -1,0 +1,30 @@
+body {
+  font-family: Roboto;
+  margin: 0;
+  background: var(--secondary-color);
+  color: var(--white);
+  font-size: responsive 16px 18px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: Pathway Gothic One;
+}
+
+h1 {
+  font-size: responsive 40px 50px;
+}
+h2 {
+  font-size: responsive 38px 48px;
+}
+h3 {
+  font-size: responsive 35px 45px;
+}
+h4 {
+  font-size: responsive 32px 42px;
+}
+h5 {
+  font-size: responsive 30px 40px;
+}
+h6 {
+  font-size: responsive 28px 38px;
+}
